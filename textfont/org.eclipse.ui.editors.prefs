@@ -1,0 +1,20 @@
+#Tue Aug 23 10:18:13 CST 2011
+matchingTagIndicationColor=0,0,255
+writeOccurrenceIndication=true
+occurrenceHighlighting=false
+AbstractTextEditor.Color.Background=199,237,204
+writeOccurrenceHighlighting=false
+eclipse.preferences.version=1
+spacesForTabs=true
+writeOccurrenceIndicationColor=0,0,255
+occurrenceIndication=true
+matchingTagHighlight=false
+occurrenceTextStyle=DASHED_BOX
+matchingTagTextStyle=DASHED_BOX
+overviewRuler_migration=migrated_3.1
+lineNumberRuler=true
+occurrenceIndicationColor=0,0,255
+lineNumberColor=0,0,0
+writeOccurrenceTextStyle=DASHED_BOX
+spellingEnabled=false
+matchingTagIndication=true
